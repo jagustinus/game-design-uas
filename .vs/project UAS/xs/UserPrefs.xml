@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{532CFA07-866E-979F-C138-9DD14489410A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/sprite.cs">
+    <Files>
+      <File FileName="Assets/Script/knight.cs" Line="21" Column="10" />
+      <File FileName="Assets/sprite.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="project UAS" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True" />
+              <Node name="sprite.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a20ba03a-6ccc-41df-8b37-18b143eac6b3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
